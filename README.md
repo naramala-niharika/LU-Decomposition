@@ -15,8 +15,11 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Program:
 '''Program to find L and U matrix using LU decomposition.
+
 Developed by:N.Niharika
+
 RegisterNumber:21500912
+
 '''
 
 # To print L and U matrix
@@ -45,8 +48,11 @@ Thus the program to find the LU Decomposition of a matrix is written and verifie
 4. Stop the program
 
 '''Program to solve a matrix using LU decomposition.
+
 Developed by:N.Niharika
+
 RegisterNumber:21500912
+
 '''
 
 # To print X matrix (solution to the equations)
