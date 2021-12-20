@@ -31,6 +31,18 @@ P,L,U=lu(A)
 print(L)
 
 print(U)
+## Output: 
+![lu decomposition](https://github.com/naramala-niharika/LU-Decomposition/blob/main/Screenshot%20(2).png?raw=true)
+
+
+## Result :
+Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
+
+## Algorithm
+1. Start the program
+2. Input the values
+3. Display the program
+4. Stop the program
 
 '''Program to solve a matrix using LU decomposition.
 Developed by:N.Niharika
@@ -53,7 +65,7 @@ X=lu_solve((lu, piv), B)
 print(X)
 
 ## Output:
-![lu decomposition]()
+![lu decomposition](https://github.com/naramala-niharika/LU-Decomposition/blob/main/Screenshot%20(1).png?raw=true)
 
 
 ## Result:
